@@ -1,3 +1,7 @@
+::-webkit-scrollbar {
+	width: 0;
+}
+
 a {
 	text-decoration: none;
 	color: #fff;
@@ -17,7 +21,6 @@ a:hover {
 body {
 	color: #fff;
 	background-color: #0B1D26;
-	
 }
 
 li {
