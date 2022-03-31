@@ -12,3 +12,14 @@ $(document).ready(function () {
 	});
 
 })
+
+// $(window).scroll(function() {
+// 	let height = $(window).scrollTop();
+	
+// 	if(height > 200){
+// 	$('.slider-list').addClass('fixed');
+// 	} else{
+// 	$('.slider-list').removeClass('fixed');
+// 	}
+	
+// });

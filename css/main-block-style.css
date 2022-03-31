@@ -52,13 +52,10 @@
 	line-height: 22px;
 }
 
-.slider-list {
-	z-index: 5;
+.slider-list.fixed {
 	position: fixed;
-	display: flex;
-	flex-direction: column;
-	text-align: right;
 	right: 20px;
+	z-index: 5;
 }
 
 .slider-list li{

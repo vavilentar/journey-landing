@@ -3,3 +3,25 @@
 @import url(./header-style.css);
 @import url(./main-block-style.css);
 @import url(./info-block-style.css);
+
+.footer__container {
+	padding-top: 100px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.nav-link-gold a{
+	color: #FBD784;
+}
+
+.footer-descr {
+	width: 303px;
+}
+
+.copyright_text {
+	color: #ffffff3d;
+	padding-top: 72px;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 32px;
+}
