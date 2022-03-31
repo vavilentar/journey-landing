@@ -18,6 +18,13 @@ a:hover {
 
 }
 
+@media (max-width:425px) {
+	[class*="__container"] {
+		max-width: 420px;
+	}
+
+}
+
 body {
 	color: #fff;
 	background-color: #0B1D26;

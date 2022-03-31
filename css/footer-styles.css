@@ -19,3 +19,23 @@
 	font-weight: 500;
 	line-height: 32px;
 }
+
+@media (max-width: 425px) {
+	.footer__container {
+		flex-direction: column;
+	}
+	.footer-navbar {
+		display: none;
+	}
+	.footer-descr{
+		margin: 5px;
+		font-size: 15px;
+		line-height: 20px;
+	}
+	.copyright_text {
+		padding-top: 10px;
+		font-size: 9px;
+		line-height: 20px;
+		margin: 5px;
+	}
+}
