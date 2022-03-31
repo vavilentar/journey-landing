@@ -1,6 +1,6 @@
-$('.slider-item').on('click', function (e) {
-	e.preventDefault()
-})
+// $('.slider-item').on('click', function (e) {
+// 	e.preventDefault()
+// })
 
 $(document).ready(function () {
 

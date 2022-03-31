@@ -53,10 +53,12 @@
 }
 
 .slider-list {
+	z-index: 5;
+	position: fixed;
 	display: flex;
 	flex-direction: column;
 	text-align: right;
-	margin-right: 20px;
+	right: 20px;
 }
 
 .slider-list li{
