@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Gilroy';
+	src: url(../fonts/Gilroy-Bold.ttf);
+	src: url(../fonts/Gilroy-Medium.ttf);
+}
+
+@font-face {
+	font-family: 'Chronicle Display';
+	src: url(../fonts/Chronicle-Display-Semibold.otf);
+}
