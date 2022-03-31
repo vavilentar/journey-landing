@@ -2,7 +2,7 @@
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding-bottom: 900px;
+	padding-bottom: 700px;
 }
 
 .content-social {
@@ -87,6 +87,7 @@
 	height: 60px;
 	width: 3px;
 	background: #fff;
+	transition: all .4s ease;
 }
 
 .content-slider {

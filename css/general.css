@@ -9,13 +9,15 @@ a:hover {
 
 [class*="__container"] {
 	font-family: 'Gilroy';
-	max-width: 1760px;
+	max-width: 1600px;
 	margin: 0 auto;
+
 }
 
 body {
 	color: #fff;
 	background-color: #0B1D26;
+	
 }
 
 li {
@@ -23,3 +25,13 @@ li {
 	padding: 20px 0;
 }
 
+.background-img {
+	position: absolute;
+	z-index: -99;
+	width: 100%;
+
+}
+
+.wrapper {
+	background-color: rgba(0, 0, 0, 0.26);
+}
