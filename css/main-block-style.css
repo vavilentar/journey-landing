@@ -55,7 +55,6 @@
 .slider-list.fixed {
 	position: fixed;
 	right: 20px;
-	z-index: 5;
 }
 
 .slider-list li{

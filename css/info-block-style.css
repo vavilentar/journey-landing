@@ -9,7 +9,6 @@
 .text-block {
 	display: flex;
 	flex-direction: column;
-	z-index: 2;
 	padding-left: 145px;
 }
 
@@ -48,8 +47,8 @@
 }
 
 .right-number {
-	left: 900px;
-	top: 120px;
+	left: 800px;
+	top: 130px;
 }
 
 .text-block-right {
