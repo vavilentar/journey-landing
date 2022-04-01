@@ -45,3 +45,10 @@ li {
 .wrapper {
 	background-color: rgba(0, 0, 0, 0.26);
 }
+
+@media (max-width:769px) {
+	[class*="__container"] {
+		max-width: 700px;
+	}
+
+}

@@ -109,3 +109,23 @@
 		line-height: 50px;
 	}
 }
+
+@media (max-width: 769px){
+	.content-social {
+		padding-top: 140px;
+	}
+
+	.subtitle-main {
+		width: 350px;
+		font-size: 31px;
+    		line-height: 40px;
+	}
+	.slider-list.fixed {
+		position: fixed;
+		top: 90px;
+	}
+	.content__container {
+		justify-content: flex-start;
+		padding-bottom: 220px;
+	}
+}

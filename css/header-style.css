@@ -41,3 +41,17 @@
 		margin: 10px;
 	}
 }
+
+@media (max-width: 769px) {
+	.header {
+		justify-content: space-around;
+		padding-bottom: 120px;
+	}
+	.navbar {
+		flex-wrap: nowrap;
+		font-weight: 400;
+	}
+	.header-account-link {
+		font-weight: 400;
+	}
+}
