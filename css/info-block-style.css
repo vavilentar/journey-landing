@@ -115,7 +115,7 @@
 	}
 }
 
-@media (max-width: 769px) {
+@media (max-width: 829px) {
 	.text-block {
 		padding-left: 0;
 	}
@@ -140,11 +140,16 @@
 		flex-direction: column-reverse;
 		align-items: center;
 		margin: 0px 0px 0px 0px;
+		
 	}
 	.photo-block-right{
 		padding: 0;
 	}
 	.right-number {
 		left: 390px;
+	}
+	.backgroung-number {
+		left: 30px;
+		top: 50px;
 	}
 }

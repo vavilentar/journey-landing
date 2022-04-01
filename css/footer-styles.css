@@ -24,7 +24,7 @@
 
 }
 
-@media (max-width: 769px) {
+@media (max-width: 829px) {
 	.footer__container {
 		flex-direction: column;
 	}
